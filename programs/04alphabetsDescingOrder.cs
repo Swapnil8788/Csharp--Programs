@@ -11,9 +11,27 @@ public class AlphabetsDescendingOrder
                                             };
 
 
-        for(int i = alphabets.Count - 1; i >= 0; i--)
+        // for(int i = alphabets.Count - 1; i >= 0; i--)
+        // {
+        //     Console.WriteLine($"{i + 1} - {alphabets[i]}");
+        // }
+
+        for (int c = 'A'; c <= 'Z'; c++)
         {
-            Console.WriteLine($"{i + 1} - {alphabets[i]}");
+            Console.Write($"{c} ");
         }
+        Console.WriteLine();
+        for (char c = 'A'; c <= 'Z'; c++)
+        {
+            Console.Write($"{c} ");
+        }
+
+
+        Console.WriteLine();
+        int unicodeOfAMinus = 'A' - 1;
+        Console.Write("Please enter the number between 1 to 26: ");
+        int inputNum = Convert.ToInt32(Console.ReadLine()) + unicodeOfAMinus;
+
+        Console.WriteLine($"user input number is {(char)inputNum}");
     }
 }
