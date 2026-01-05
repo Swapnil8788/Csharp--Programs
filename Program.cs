@@ -12,4 +12,5 @@
 
 // LargestOfThree.Run();
 // LargestOfSeven.Run();
-ReadingNumberOfDay.Run();
+// ReadingNumberOfDay.Run();
+OneToNNaturalNumbers.Run();
