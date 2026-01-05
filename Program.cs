@@ -15,4 +15,9 @@
 // ReadingNumberOfDay.Run();
 // OneToNNaturalNumbers.Run();
 // AlphabetsDescendingOrder.Run();
-ProductOfNaturalNumbersNToM.Run();
+// ProductOfNaturalNumbersNToM.Run();
+// NaturalNumbersBetweenMAndN.Run();
+// TwoTable.Run();
+// AnyTable.Run();
+// AnyTableWithoutMultiplicationOperator.Run();
+Quotient.Run();
