@@ -1,5 +1,15 @@
 ﻿using Problems;
 
-// LargestOfThree.Run();
+// namespace Problems;
 
-LargestOfSeven.Run();
+// public class LargestOfThree
+// {
+//     public static void Run()
+//     {
+        
+//     }
+// }
+
+// LargestOfThree.Run();
+// LargestOfSeven.Run();
+ReadingNumberOfDay.Run();
