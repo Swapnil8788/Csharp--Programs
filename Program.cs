@@ -1,5 +1,5 @@
-﻿using Problems;
-
+﻿// using Problems;
+// using Concepts;
 // namespace Problems;
 
 // public class LargestOfThree
@@ -30,4 +30,13 @@
 // CountTheNumbers.Run();
 // TakeInputFromUserForArray.Run();
 // EvenIndexNumbers.Run();
-DictionaryProblems.Run();
+// DictionaryProblems.Run();
+
+
+using Concepts;
+using Inhertiance;
+
+// class1.Run();
+class2.Run();
+
+
